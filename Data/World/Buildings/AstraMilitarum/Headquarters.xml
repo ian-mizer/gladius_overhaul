@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building disablable="0">
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<productionCost base="336"/>
+				<populationRequired base="0"/>
+				<slotsRequired base="1"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<cityRadius add="2"/>
+				<energy add="12"/>
+				<food add="12"/>
+				<loyalty add="12"/>
+				<influence add="12"/>
+				<ore add="12"/>
+				<populationLimit add="12"/>
+				<research add="12"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<traits>
+		<trait name="AstraMilitarum/CityTier2" requiredUpgrade="AstraMilitarum/CityTier2"/>
+		<trait name="AstraMilitarum/CityTier3" requiredUpgrade="AstraMilitarum/CityTier3"/>
+		<trait name="Headquarters"/>
+	</traits>
+</building>

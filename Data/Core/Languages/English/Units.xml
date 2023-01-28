@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>    
+	<entry name="AstraMilitarum/GuardsmanFlavor" value="From the steaming jungles of Catachan to the war-torn fortress world of Cadia, the humble Guardsmen provide the ironclad backbone of the Imperial Guard."/>
+    <entry name="AstraMilitarum/Guardsman_Plasma" value="Guardsmen Plasma Pistol"/>
+	<entry name="AstraMilitarum/Cadian_ShockTroop" value="Close range infantry unit"/>
+	<entry name="AstraMilitarum/Cadian_ShockTroopDescription" value="Aggressive infantry who survived the destruction of their planet"/>
+	<entry name="AstraMilitarum/GuardsmanDescription" value="Light infantry unit."/>
+	<entry name="AstraMilitarum/GuardsmanFlavor" value="From the steaming jungles of Catachan to the war-torn fortress world of Cadia, the humble Guardsmen provide the ironclad backbone of the Imperial Guard."/>
+</language>
